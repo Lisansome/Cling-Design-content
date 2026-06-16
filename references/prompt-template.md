@@ -5,7 +5,7 @@
 把下面结构当母版，不要逐字照抄。根据任务替换主题、角色状态、场景节点和周边碎片。
 
 ```text
-Create a Chinese social-media illustration in the requested aspect ratio: landscape 16:9, portrait 3:4 or 9:16, or square 1:1.
+Create a Chinese social-media illustration in the requested aspect ratio. If no ratio is specified, default to landscape 16:9.
 
 Core idea: [一句主题 / 一种情绪 / 一个瞬间 / 一个认知锚点]
 
@@ -13,8 +13,8 @@ Visual direction:
 - warm creamy background
 - subtle paper or crayon texture
 - black hand-drawn outline with slightly fuzzy edges
-- teal, soft orange, and mustard yellow as accent blocks
-- clean but punchy
+- teal, soft orange, and mustard yellow as the main accent family
+- bold but still controlled
 - stylish, bratty, a little sarcastic
 - american hot-girl / poster-girl energy without being vulgar
 - anime-inspired / fashion-illustration hybrid, character-centered composition
@@ -28,15 +28,17 @@ Main subject:
 - the result should feel like the same kind of person, but not a pixel-identical locked persona
 
 Surrounding elements:
-- only 2-3 text-bearing fragments at most
-- most surrounding elements should be abstract marks, paper shapes, symbols, brackets, underlines, or unreadable scraps
-- these should orbit the character or scene and support the mood
+- one bold title zone with readable Chinese text generated as part of the illustration
+- 4-8 readable short fragments such as sticky notes, chat bubbles, checklist items, torn notes, or message cards
+- surrounding elements should feel like one semantic field attacking or supporting the main idea
+- use abstract marks, paper shapes, symbols, brackets, underlines, or unreadable scraps only as secondary atmosphere
 - do not turn them into a low-grade boxed workflow diagram
 
 Composition:
-- one clear character-led scene
+- one clear title-led and character-led scene
 - one dominant action or moment
 - one cognitive anchor only; do not try to illustrate the whole article in one image
+- title first, character second, fragments third
 - floating fragments around the character or around the 2-4 scene nodes
 - strong breathing room
 - no rounded card-like frame
@@ -55,16 +57,17 @@ Important constraints:
 - not a cold editorial poster
 - not a childish mascot poster
 - not soft-cute journaling aesthetics
-- not crowded with multiple readable notes
+- not a minimalist empty poster
+- not crowded with unrelated readable notes
 - do not fill the frame with many slogans or chat screenshots
-- no fake large Chinese text unless explicitly requested
+- Chinese title and short fragments should feel embedded in the artwork, not pasted on later
 ```
 
 ## 中文补充规则
 
 默认是正文图 / 流程图 / 情绪图 / 观点配图，不是固定人物封面。
 
-- 目标是让人先看懂意思，再感受到这个人的气质
+- 目标是让人先被标题打中，再通过角色和贴片读懂意思
 - 默认一张图只承担一个核心判断、一个情绪断点或一个流程节点
 - 允许近似扩展
 - 允许人物缩小、嵌进流程、嵌进动作或场景里
@@ -73,9 +76,11 @@ Important constraints:
 
 如果用户要带字：
 
-- 优先做成一个主标题，外加 0-2 个很短的辅助词组
-- 让字像主标题区 + 少量贴片，不要做满屏便签
-- 其余信息碎片宁可抽象，也不要做成大量可读文字
+- 优先做成一个强主标题区
+- 再搭配 4-8 个短贴片、短句、checklist 或对话泡泡
+- 不要大段解释，但可以有很多短信息
+- 标题和贴片必须像画面里原生长出来的内容，不要像后贴字幕条
+- 本地压字只允许作为极端兜底，不是默认工作流
 
 如果用户给了参考图：
 
@@ -115,7 +120,7 @@ Important constraints:
 
 如果用户没有指定比例：
 
-- 流程、结构、横向内容优先 `16:9`
-- 普通社媒正文图优先 `3:4`
+- 默认直接用 `16:9`
+- 只有用户明确要社媒正文卡或竖版正文图时才用 `3:4`
 - 头像感或强居中人物优先 `1:1`
 - 全屏短视频首图优先 `9:16`
