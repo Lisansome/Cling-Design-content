@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cling Design"
+  short_description: "暖奶油底中文正文/流程/情绪配图"
+  default_prompt: "Use $cling-design to turn this Chinese idea, article, workflow, or emotional moment into a warm paper-textured body illustration with a cool recurring bob-haired character, minimal readable text, floating note fragments, and strong scene-led expression."
