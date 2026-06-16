@@ -7,7 +7,7 @@
 ```text
 Create a Chinese social-media illustration in the requested aspect ratio: landscape 16:9, portrait 3:4 or 9:16, or square 1:1.
 
-Core idea: [一句主题 / 一种情绪 / 一个瞬间]
+Core idea: [一句主题 / 一种情绪 / 一个瞬间 / 一个认知锚点]
 
 Visual direction:
 - warm creamy background
@@ -36,6 +36,7 @@ Surrounding elements:
 Composition:
 - one clear character-led scene
 - one dominant action or moment
+- one cognitive anchor only; do not try to illustrate the whole article in one image
 - floating fragments around the character or around the 2-4 scene nodes
 - strong breathing room
 - no rounded card-like frame
@@ -64,6 +65,7 @@ Important constraints:
 默认是正文图 / 流程图 / 情绪图 / 观点配图，不是固定人物封面。
 
 - 目标是让人先看懂意思，再感受到这个人的气质
+- 默认一张图只承担一个核心判断、一个情绪断点或一个流程节点
 - 允许近似扩展
 - 允许人物缩小、嵌进流程、嵌进动作或场景里
 - 允许三场景横向叙事，或一个角色 + 多个场景节点
