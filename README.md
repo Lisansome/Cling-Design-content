@@ -27,6 +27,7 @@
 
 - `SKILL.md`
 - `agents/openai.yaml`
+- `examples/`
 - `references/operating-rules.md`
 - `references/style-dna.md`
 - `references/character-system.md`
@@ -34,6 +35,20 @@
 - `references/prompt-template.md`
 - `references/qa-checklist.md`
 - `references/examples.md`
+
+## 图片示例
+
+### 1. 横版流程图示例
+
+![Approx Workflow 16x9 01](examples/approx-workflow-16x9-01.png)
+
+### 2. 横版流程图变体
+
+![Approx Workflow 16x9 02](examples/approx-workflow-16x9-02.png)
+
+### 3. 竖版正文配图示例
+
+![Approx State 3x4 01](examples/approx-state-3x4-01.png)
 
 ## 使用原则
 

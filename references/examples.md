@@ -2,6 +2,20 @@
 
 这份不是理论，是给第一次上手的人直接看图感和题感用的。
 
+## 仓库内图片示例
+
+### 横版流程图示例 1
+
+![Approx Workflow 16x9 01](../examples/approx-workflow-16x9-01.png)
+
+### 横版流程图示例 2
+
+![Approx Workflow 16x9 02](../examples/approx-workflow-16x9-02.png)
+
+### 竖版正文配图示例
+
+![Approx State 3x4 01](../examples/approx-state-3x4-01.png)
+
 ## 这套 skill 现在最适合出的图
 
 ### 1. 正文配图
